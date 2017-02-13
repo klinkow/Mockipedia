@@ -8,7 +8,7 @@
 
 ## Setup/Installation Requirements
 
-* _Click html file and enjoy
+* _Click html file and enjoy_
 
 ## Support and contact details
 
